@@ -1,0 +1,12 @@
+{
+    "rules": {
+        "domain":[
+            "moepedia.net",
+            "prestige-av.com"
+        ],
+        "domain_suffix": [
+            ".moepedia.net",
+            ".prestige-av.com" 
+        ]
+    }
+}
