@@ -1,0 +1,13 @@
+{
+    "rules": {
+        "domain_keyword": [
+            "freemdict"
+        ],
+        "domain_suffix": [
+            ".icekylin.online",
+            ".south-plus.net",
+            ".services.googleapis.cn",
+            ".xn--ngstr-lra8j.com"
+        ]
+    }
+}
