@@ -1,21 +1,23 @@
 {
-    "version": 1,
-    "rules": {
-        "domain":[
-            "as.mr",
-            "asmr.one",
-            "asmr-100.com",
-            "asmr-200.com",
-            "asmr-300.com",
-            "asmr-200.one",
-        ],
-        "domain_suffix": [
-            ".asmr.one",
-            ".asmr-100.com",
-            ".asmr-200.com",
-            ".asmr-300.com",
-            ".asmr-200.one",
-            ".kiko-play-niptan.one"
-        ],
-    }
+    "version": 2,
+    "rules": [
+        {
+            "domain": [
+                "as.mr",
+                "asmr.one",
+                "asmr-100.com",
+                "asmr-200.com",
+                "asmr-300.com",
+                "asmr-200.one"
+            ],
+            "domain_suffix": [
+                ".asmr.one",
+                ".asmr-100.com",
+                ".asmr-200.com",
+                ".asmr-300.com",
+                ".asmr-200.one",
+                ".kiko-play-niptan.one"
+            ]
+        }
+    ]
 }

@@ -1,14 +1,16 @@
 {
-    "version": 1,
-    "rules": {
-        "domain_keyword": [
-            "freemdict"
-        ],
-        "domain_suffix": [
-            ".icekylin.online",
-            ".south-plus.net",
-            ".services.googleapis.cn",
-            ".xn--ngstr-lra8j.com"
-        ]
-    }
+    "version": 2,
+    "rules": [
+        {
+            "domain_keyword": [
+                "freemdict"
+            ],
+            "domain_suffix": [
+                ".icekylin.online",
+                ".south-plus.net",
+                ".services.googleapis.cn",
+                ".xn--ngstr-lra8j.com"
+            ]
+        }
+    ]
 }
